@@ -1,0 +1,187 @@
+body{
+    background-color: #d3d3d3;
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+p{
+    font-size: larger;
+    font-weight: 700;
+}
+.BURKINA-FASO .red {
+    background-color: #EF3340;
+    height: 105px;
+    width: 300px;
+}
+
+.BURKINA-FASO .green {
+    background-color: #009739;
+    height: 105px;
+    width: 300px;
+}
+
+.imgOfBF {
+    position: absolute;
+    width: 100px;
+    top: 98px;
+}
+
+.mcon {
+    border: 1px solid black;
+    height: 350px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.mcon1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.first1 {
+    background-color: #002664;
+    height: 210px;
+    width: 100px;
+}
+
+.second2 {
+    background-color: #FECB00;
+    height: 210px;
+    width: 100px;
+}
+
+.third3 {
+    background-color: #C60C30;
+    height: 210px;
+    width: 100px;
+}
+
+  .red{
+    background-color: #AA151B;
+    height: 55px;
+    width: 300px;
+  }
+  .yellow{
+    background-color: #F1BF00;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+  }
+  .yellow img{
+    height: 70px;
+    margin: 50px;
+  }
+  .reda{
+    background-color: #AA151B;
+    height: 55px;
+    width: 300px;
+  }
+  .white{
+    background-color: #FFFFFF;
+    height: 30px;
+    width:300px;
+    
+  }
+  .blue{
+    background-color: #005EB8;
+    height:35px;
+    width:300px;
+  }
+  .whitea{
+    background-color: #FFFFFF;
+    height:80px;
+    width:300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .whitea img{
+    height: 70px;
+  }
+  .bluea{
+    background-color: #005EB8;
+    height:35px;
+    width:300px;
+  }
+  .whiteaa{
+    background-color: #FFFFFF;
+    height: 30px;
+    width:300px;
+  }
+
+
+  .first {
+    width: 100px;
+    height: 210px;
+    background-color: #2D2926;
+}
+
+.second {
+    width: 100px;
+    height: 210px;
+    background-color: #FFCD00;
+}
+
+.third {
+    width: 100px;
+    height: 210px;
+    background-color: #C8102E;
+}
+
+#kar{
+    position: relative;
+    left: 60px;
+    top: 160px;
+}
+
+#red {
+    height: 210px;
+    width: 300px;
+    background-color: #C8102E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#red img {
+    height: 90px;
+    width: 90px;
+}
+
+.ALGERIA {
+    display: flex;
+    justify-content: center;
+}
+
+.ALGERIA .green {
+    background-color: #006633;
+    height: 210px;
+    width: 150px;
+
+}
+
+.ALGERIA .white {
+    background-color: #FFFFFF;
+    height: 210px;
+    width: 150px;
+}
+
+.img {
+    position: absolute;
+    width: 90px;
+    top: 105px;
+}
+
+.ALGERIA img {
+    height: 90px;
+    width: 90px;
+
+}
